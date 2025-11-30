@@ -1,6 +1,4 @@
-## <h1 align="center">Hi 👋, 
-
-I'm HR (Hassan Ridwanullah)</h1>
+## <h1 align="center"> Welcome👋, I'm HR (Hassan Ridwanullah)</h1>
 <h3 align="center">AI Developer • Web3 Engineer •WordPress Designer • Python & Rust Wizard</h3>
 
 ## 🚀 About Me
