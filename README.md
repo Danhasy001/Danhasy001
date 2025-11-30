@@ -1,5 +1,7 @@
-## <h1 align="center">Hi 👋, I'm HR (Hassan Ridwanullah)</h1>
-<h3 align="center">AI Developer • Web3 Engineer • UI/UX Designer • Python & Rust Wizard</h3>
+## <h1 align="center">Hi 👋, 
+
+I'm HR (Hassan Ridwanullah)</h1>
+<h3 align="center">AI Developer • Web3 Engineer •WordPress Designer • Python & Rust Wizard</h3>
 
 ## 🚀 About Me
 I'm a passionate **AI Developer**, **Blockchain Engineer**, and **WordPress Designer** from Nigeria.  
